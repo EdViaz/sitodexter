@@ -201,7 +201,7 @@ html {
   scroll-padding-top: 80px; /* matches header height */
 }
 
- img {
+ .container img {
   display: block;
   max-width: 600px;
   margin: 20px auto;
